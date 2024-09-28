@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/shashank/CRED/926b5165-d353-4c61-a023-0a16b62dc4af/src/include/service",
+      "program": "/Users/shashank/CRED/926b5165-d353-4c61-a023-0a16b62dc4af/src/include/service/build/Debug/outDebug"
+    }
+  ]
+}
